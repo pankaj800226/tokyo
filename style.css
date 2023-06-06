@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    font-size: 65px;
+    margin-top: 84px;
+    letter-spacing: 1px;
+}
+.contenar{
+    margin-left: 574px;
+    padding: 50px 0px;
+    letter-spacing: 3px;
+}
+.contenar a{
+    transition: 0.5s ease;
+    text-decoration: none;
+    color: black;
+}
+.contenar a:hover{
+    color: rgb(250, 250, 244);
+}
+.img{
+    background-position: center;
+    background-size: cover;
+}
+.image img{
+    padding: 44px 130px;
+    max-width: 80%;
+    transition: 0.5s ease;
+}
+.image img:hover{
+    filter: grayscale(1);
+    transform: scale(1.03);
+}
+.lettar h1{
+    font-size: 20px;
+    margin-top: 5px;
+  
+
+}
+.lettar p{
+    text-align: center;
+    margin: 22px;
+    font-size: 13px;
+}
+.contenar2 p{
+    margin: 55px;
+    padding: 0px 186px;
+    letter-spacing: 2px;
+
+
+}
+.lettar3{
+    text-align: center;
+}
+.lettar3 a:hover{
+    color: aquamarine;
+}
+.lettar3 a{
+    color: black;
+    text-decoration: none;
+    letter-spacing: 2px;
+
+}
+.photo img{
+    max-width: 80%;
+    padding: 105px 130px;
+    transition: 0.5s ease;
+}
+.photo img:hover{
+    filter: grayscale(1);
+    transform: scale(1.03);
+}
+.lettar4 h1{
+    margin: -78px;
+    letter-spacing: 2px;
+}
+.lettar4 p{
+    margin: 100px;
+    letter-spacing: 2px;
+}
+.lettar4 a:hover{
+    color: aquamarine;
+}
+.lettar5{
+    margin-top: -38px;
+}
+.lettar6{
+    text-align: center;
+}
+.lettar6 a{
+    color: black;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+.class img{
+    max-width: 80%;
+margin: 105px 130px;
+transition: 0.5s ease;
+}
+.class img:hover{
+    filter: grayscale(1);
+    transform: scale(1.03);
+}
+.lettar7 h1{
+    margin: -70px;
+}
+.lettar7 p{
+    margin: 90px;
+}
+.lettar8 p{
+    margin: 20px 110px;
+}
+.lettar9 {
+    text-align: center;
+    margin: 45px;
+}
+.lettar9 a{
+    color: black;
+text-decoration: navajowhite;
+}
+footer{
+    height: 110px ;
+    background-color: white;
+    color: black;
+}
+.pksingh{
+    text-align: center;
+padding: 66px;
+}
+.fb img{
+    cursor: pointer;
+    height: 20px;
+margin-top: 22px;
+padding: 21px 578px;
+display: inline-block;
+}
+.tw img{
+    cursor: pointer;
+    height: 20px;
+margin-top: -45px;
+padding: 0px 614px;
+display: flex;
+}
+.drive img{
+    cursor: pointer;
+    height: 20px;
+margin-top: -45px;
+padding: 25px 647px;
+display: flex;
+}
